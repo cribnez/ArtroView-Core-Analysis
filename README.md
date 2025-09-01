@@ -1,6 +1,6 @@
 # ArtroView Core Analysis Engine
 
-Este repositorio contiene el motor de análisis central de **ArtroView**, un sistema de bajo costo para el análisis postural y la cuantificación del rango de movimiento articular desarrollado en la Universidad Polécnica de Chiapas.
+Este repositorio contiene el motor de análisis central de **ArtroView**, un sistema de bajo costo para el análisis postural y la cuantificación del rango de movimiento articular desarrollado en la Universidad Politécnica de Chiapas.
 
 El código proporcionado utiliza **OpenCV** para la captura de video y **MediaPipe** para la estimación de pose en tiempo real. La función principal es calcular ángulos biomecánicos (ej. flexión del codo y abducción del hombro) a partir de las coordenadas 3D de los puntos de referencia corporales detectados.
 
