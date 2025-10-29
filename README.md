@@ -92,3 +92,10 @@ Asegúrate de tener Python 3.8 o superior. Las dependencias principales se puede
 
 ```bash
 pip install opencv-python mediapipe numpy
+```
+
+## 📸 Demostración Visual
+
+Aquí puedes ver una captura de pantalla del ArtroView Core Analysis Engine en acción, mostrando la detección de pose y el cálculo de ángulos en tiempo real.
+
+![ArtroView Demo](assets/artroview_demo.png)
