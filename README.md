@@ -79,12 +79,6 @@ El script sigue estos pasos en cada frame del video:
 
 ---
 
-## 🧑‍💻 Autor
-
-* **Christian Roberto Ibáñez Nangüelú**
-* Afiliación: Universidad Politécnica de Chiapas
-Este proyecto busca ofrecer una base de código abierto para que investigadores, estudiantes y desarrolladores puedan crear herramientas accesibles para la telerehabilitación y el análisis de movimiento.
-
 ## Características Principales
 
 -   Detección de 33 puntos de referencia corporales en tiempo real con MediaPipe Pose.
